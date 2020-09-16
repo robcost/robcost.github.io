@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on blog: robcost</title>
+    <title>Categories on Rob Costello</title>
     <link>http://robcost.github.io/categories/</link>
-    <description>Recent content in Categories on blog: robcost</description>
+    <description>Recent content in Categories on Rob Costello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Sep 2020 20:01:15 +1000</lastBuildDate><atom:link href="http://robcost.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>category1</title>
-      <link>http://robcost.github.io/categories/category1/</link>
+      <title>general</title>
+      <link>http://robcost.github.io/categories/general/</link>
       <pubDate>Wed, 16 Sep 2020 20:01:15 +1000</pubDate>
       
-      <guid>http://robcost.github.io/categories/category1/</guid>
+      <guid>http://robcost.github.io/categories/general/</guid>
       <description></description>
     </item>
     
